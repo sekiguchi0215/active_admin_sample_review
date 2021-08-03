@@ -8,3 +8,11 @@ ja:
     author_id: 著者ID
     created_at: 作成日時
     update_at: 更新日時
+  activerecord:
+    models:
+      user: ユーザー
+    attributes:
+      user:
+        name: 名前
+        age: 年齢
+        address: 住所
